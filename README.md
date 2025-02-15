@@ -1,4 +1,4 @@
-heroRegistration (Registration System) 
+# heroRegistration (Registration System) 
 
 Introducing heroRegistration, an advanced and responsive web-based registration system meticulously developed using PHP, MySQL, AJAX, HTML, CSS, and JavaScript. This platform is engineered to deliver a seamless and intuitive user experience across all devices, ensuring both accessibility and efficiency.
 
